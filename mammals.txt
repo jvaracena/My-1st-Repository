@@ -2,3 +2,6 @@ leopard
 elephant
 lion
 seal
+
+tiger
+bird
